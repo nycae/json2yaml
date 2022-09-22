@@ -8,10 +8,8 @@ Only works with stdin and stdout, no plans of supporting further cases.
 ## Install
 Build it:
 ```go
-$ go build -o json2yaml ./main.go
+$ go install github.com/nycae/json2yaml@latest
 ```
-
-Copy the file to any directory in your path.
 
 ## Conslusions
 This was suposed to be a joke, but found it quite usefull, the real joke is my

@@ -1,5 +1,5 @@
-module github.com/nycae/json-to-yml
+module github.com/nycae/json2yml
 
-go 1.17
+go 1.18
 
-require gopkg.in/yaml.v2 v2.4.0 // indirect
+require gopkg.in/yaml.v3 v3.0.1 // indirect
